@@ -15,8 +15,6 @@ This dashboard analyzes the performance of a beauty studio across digital channe
 - DAX Measures
 - Custom visuals & filters
 
-## 📷 Screenshots:
-(Insert image links or embed screenshots)
 
 ## 📁 Files Included:
 - Radiance Lounge.pbix
